@@ -1,0 +1,64 @@
+
+
+body{
+margin-top: 50px;
+margin-left: 1100px;
+
+}
+
+#nomes{
+border: 5px solid black;
+width: 800px;
+height: 1150px;
+padding: 58px;
+
+
+}
+
+h3 {
+padding: 15px;
+text-transform: uppercase;
+font-weight: bold;
+text-align: center;
+}
+
+.cssnomes{
+margin-top: 50px;
+margin-bottom: 0px;
+text-transform: uppercase;
+font-weight: bold;
+background-color: rgb(12, 13, 14);
+color: white;
+font-size: 25px;
+text-align: center;
+}
+.csslistar{
+   font-size: 30px;
+}
+
+
+input{
+width: 500px !important;
+height: 50px;
+border-radius: 15px;
+font-size: 30px !important;
+margin: 2px;
+}
+button{
+background-image:  linear-gradient(80deg, #cef7f7,#f5bce2,rgb(234, 156, 241));
+   padding: 15px;
+   width: 125px;
+   height: 60px;
+   font-size: 23px !important;
+   color: black !important;
+   font-weight: bold !important;
+   cursor:pointer;
+}
+#botaoreset{
+   margin-left: 350px;
+  
+}
+h4{
+
+   text-align: left;
+}
